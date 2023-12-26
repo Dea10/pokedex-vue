@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, #2e4159, #262626);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
